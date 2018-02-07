@@ -1,6 +1,6 @@
 # umeng 组件库
 
-[![Latest Stable Version](https://poser.pugx.org/itboye/component_umeng/v/stable)](https://packagist.org/packages/itboye/component_tp5)
+[![Latest Stable Version](https://poser.pugx.org/itboye/component_umeng/v/stable)](https://packagist.org/packages/itboye/component_umeng)
 [![Total Downloads](https://poser.pugx.org/itboye/component_umeng/downloads)](https://packagist.org/packages/itboye/component_umeng)
 [![Monthly Downloads](https://poser.pugx.org/itboye/component_umeng/d/monthly)](https://packagist.org/packages/itboye/component_umeng)
 [![Daily Downloads](https://poser.pugx.org/itboye/component_umeng/d/daily)](https://packagist.org/packages/itboye/component_umeng)
